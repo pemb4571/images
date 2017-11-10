@@ -26,7 +26,7 @@ Calibration
 
 1.	Select the **Calibration tab** in the *right hand pane*.
 
-![right_hand_panel](/images/right_hand_panel.jpg)
+![right_hand_panel](right_hand_panel.jpg)
  
 1.	Select all cameras in the *left hand panel* and press `Video Calibration Setup > Activate` in the *right hand panel*. If greyed out, check in *live mode*.
 
