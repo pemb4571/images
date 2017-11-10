@@ -12,7 +12,7 @@ Initialising
 2.	Locate **Error Book** and be prepared to fill out any errors encountered with sufficient detail. See below.
 3.	Locate **Log Book** and fill in details of when the system was switched on. See below.
 4.	Open **Nexus** Software on the computer.
-5.	Check all cameras are displayed in green in the *left hand panel* within **Nexus**. In addition, check the **Lock+** is attached.
+5.	Check all cameras are displayed in green in the *left hand panel* within **Nexus**. In addition, check the **Lock+** is 	attached.
 6.	Check the *master* has been set correctly (the Lock+).
 7.	Cover all markers within the room.
 8.	Verify the **Active Wand** has been charged recently.
@@ -28,6 +28,8 @@ Calibration
 
 ![](images/right_hand_panel.jpg)
 
+[[https://https://github.com/pemb4571/images/right_hand_panel.jpg|alt=right_hand_panel]]
+ 
 1.	Select all cameras in the *left hand panel* and press `Video Calibration Setup > Activate` in the *right hand panel*. If greyed out, check in *live mode*.
 
 ####Masking
