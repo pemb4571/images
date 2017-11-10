@@ -28,7 +28,7 @@ Calibration
 
 ![](images/right_hand_panel.jpg)
 
-[[https://https://github.com/pemb4571/images/right_hand_panel.jpg|alt=right_hand_panel]]
+[[https://github.com/pemb4571/images/right_hand_panel.jpg|alt=right_hand_panel]]
  
 1.	Select all cameras in the *left hand panel* and press `Video Calibration Setup > Activate` in the *right hand panel*. If greyed out, check in *live mode*.
 
